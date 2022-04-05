@@ -1,0 +1,16 @@
+.Login_modal{
+    display: flex;
+    flex-direction: column;
+    
+}
+.Login_modal_box{
+    display: flex;
+    flex-direction: column;
+   
+}
+.Login_modal_box_item{
+    
+    padding-bottom: 35px;
+    display: flex;
+    justify-content: space-around;
+}
